@@ -1,0 +1,31 @@
+{
+  "name": "webbleen-zenn-articles",
+  "version": "1.0.0",
+  "description": "webbleen's Zenn articles repository",
+  "main": "index.js",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webbleen/zenn.dev.git"
+  },
+  "keywords": [
+    "zenn",
+    "articles",
+    "blog",
+    "ios",
+    "web-development",
+    "markdown"
+  ],
+  "author": {
+    "name": "webbleen",
+    "url": "https://zenn.dev/webbleen"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "zenn-cli": "^0.1.144"
+  }
+}
