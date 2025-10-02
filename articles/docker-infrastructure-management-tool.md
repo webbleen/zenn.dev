@@ -2,7 +2,7 @@
 title: "Dockerで作る完全な開発環境インフラ管理ツールの紹介"
 emoji: "🐳"
 type: "tech"
-topics: ["docker", "infrastructure", "devops", "開発環境", "makefile"]
+topics: ["docker", "infrastructure", "devops", "開発環境", "makefile", "zennfes2025infra"]
 published: true
 ---
 
