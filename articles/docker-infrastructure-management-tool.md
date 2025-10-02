@@ -4,7 +4,6 @@ emoji: "🐳"
 type: "tech"
 topics: ["docker", "devops", "開発環境", "makefile", "zennfes2025infra"]
 published: true
-published_at: "2025-10-01"
 ---
 
 # Dockerで作る完全な開発環境インフラ管理ツールの紹介
