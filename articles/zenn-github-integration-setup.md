@@ -4,6 +4,8 @@ emoji: "📱"
 type: "tech"
 topics: ["zenn", "github", "ios", "執筆環境", "技術記事", "markdown", "zennfes2025free"]
 published: true
+published_at: "2025-01-27"
+updated_at: "2025-01-27"
 ---
 
 # ZennとGitHubを連携して技術記事を効率的に管理する方法
